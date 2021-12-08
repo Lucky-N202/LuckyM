@@ -322,12 +322,14 @@ body {
   }
 }
 
-.leftbar h3{
-  margin-left: .4rem;
-  padding: .5rem;
+.leftbar-home{
+  display: flex;
+  justify-content: left;
 }
 
-.leftbar a{
-  margin-right: .4rem;
-  padding: .5rem;
+.create{
+  
+  display: flex;
+  justify-content: right;
+
 }
